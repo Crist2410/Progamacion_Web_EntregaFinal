@@ -1,0 +1,24 @@
+C:\Users\Cris\Desktop\Proyecto_Fit_Center\Fit Center Model\bin\Debug\net7.0\Fit Center Model.deps.json
+C:\Users\Cris\Desktop\Proyecto_Fit_Center\Fit Center Model\bin\Debug\net7.0\Fit Center Model.dll
+C:\Users\Cris\Desktop\Proyecto_Fit_Center\Fit Center Model\bin\Debug\net7.0\Fit Center Model.pdb
+C:\Users\Cris\Desktop\Proyecto_Fit_Center\Fit Center Model\obj\Debug\net7.0\Fit Center Model.csproj.AssemblyReference.cache
+C:\Users\Cris\Desktop\Proyecto_Fit_Center\Fit Center Model\obj\Debug\net7.0\Fit Center Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cris\Desktop\Proyecto_Fit_Center\Fit Center Model\obj\Debug\net7.0\Fit Center Model.AssemblyInfoInputs.cache
+C:\Users\Cris\Desktop\Proyecto_Fit_Center\Fit Center Model\obj\Debug\net7.0\Fit Center Model.AssemblyInfo.cs
+C:\Users\Cris\Desktop\Proyecto_Fit_Center\Fit Center Model\obj\Debug\net7.0\Fit Center Model.csproj.CoreCompileInputs.cache
+C:\Users\Cris\Desktop\Proyecto_Fit_Center\Fit Center Model\obj\Debug\net7.0\Fit Center Model.dll
+C:\Users\Cris\Desktop\Proyecto_Fit_Center\Fit Center Model\obj\Debug\net7.0\refint\Fit Center Model.dll
+C:\Users\Cris\Desktop\Proyecto_Fit_Center\Fit Center Model\obj\Debug\net7.0\Fit Center Model.pdb
+C:\Users\Cris\Desktop\Proyecto_Fit_Center\Fit Center Model\obj\Debug\net7.0\ref\Fit Center Model.dll
+C:\Users\Cris\Documents\Entrega Final Proga Web\Fit Center Model\bin\Debug\net7.0\Fit Center Model.deps.json
+C:\Users\Cris\Documents\Entrega Final Proga Web\Fit Center Model\bin\Debug\net7.0\Fit Center Model.dll
+C:\Users\Cris\Documents\Entrega Final Proga Web\Fit Center Model\bin\Debug\net7.0\Fit Center Model.pdb
+C:\Users\Cris\Documents\Entrega Final Proga Web\Fit Center Model\obj\Debug\net7.0\Fit Center Model.csproj.AssemblyReference.cache
+C:\Users\Cris\Documents\Entrega Final Proga Web\Fit Center Model\obj\Debug\net7.0\Fit Center Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cris\Documents\Entrega Final Proga Web\Fit Center Model\obj\Debug\net7.0\Fit Center Model.AssemblyInfoInputs.cache
+C:\Users\Cris\Documents\Entrega Final Proga Web\Fit Center Model\obj\Debug\net7.0\Fit Center Model.AssemblyInfo.cs
+C:\Users\Cris\Documents\Entrega Final Proga Web\Fit Center Model\obj\Debug\net7.0\Fit Center Model.csproj.CoreCompileInputs.cache
+C:\Users\Cris\Documents\Entrega Final Proga Web\Fit Center Model\obj\Debug\net7.0\Fit Center Model.dll
+C:\Users\Cris\Documents\Entrega Final Proga Web\Fit Center Model\obj\Debug\net7.0\refint\Fit Center Model.dll
+C:\Users\Cris\Documents\Entrega Final Proga Web\Fit Center Model\obj\Debug\net7.0\Fit Center Model.pdb
+C:\Users\Cris\Documents\Entrega Final Proga Web\Fit Center Model\obj\Debug\net7.0\ref\Fit Center Model.dll

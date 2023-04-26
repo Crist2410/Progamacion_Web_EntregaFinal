@@ -1,0 +1,116 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Proyecto_Progra_Web</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/Proyecto_Progra_Web.styles.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/css/font-awesome.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/css/templatemo-klassy-cafe.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/css/owl-carousel.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/css/lightbox.css" asp-append-version="true" />
+</head>
+
+
+<body>
+    <!-- ***** Header Area Start ***** -->
+    <header class="header-area header-sticky">
+        <div class="container">
+            <div class="row">
+                <div class="col-12">
+                    <nav class="main-nav">
+                        <!--- ***** Logo Start ***** -->
+                        <a href="index.html" class="logo">
+                            <img src="~/images/Logo_Small.png" align="klassy cafe html template">
+                        </a>
+                        <!-- ***** Logo End ***** -->
+                        <!-- ***** Menu Start ***** -->
+                        <ul class="nav">
+                            @if (UserSingleton.Instance.User != null)
+                            {
+                                <li class="scroll-to-section"><a class="active" asp-area="" asp-controller="User" asp-action="IndexUser">@UserSingleton.Instance.User.FirstName @UserSingleton.Instance.User.LastName</a></li>
+                            }
+                            else
+                            {
+                                <li class="scroll-to-section"><a class="active" asp-area="" asp-controller="Home" asp-action="Index">FIT CENTER</a></li>
+                            }
+                            <li class="scroll-to-section"><a asp-area="" asp-controller="Home" asp-action="About">About</a></li>
+                            <li class="scroll-to-section"><a asp-area="" asp-controller="Home" asp-action="Privacy">Menu</a></li>
+                            <li class="submenu">
+                                <a href="javascript:;">Clases</a>
+                                <ul>
+                                    <li><a asp-area="" asp-controller="Home" asp-action="Index">Calistenia</a></li>
+                                    <li><a asp-area="" asp-controller="Home" asp-action="Index">Pesas</a></li>
+                                    <li><a asp-area="" asp-controller="Home" asp-action="Index">CroosFit</a></li>
+                                    <li><a asp-area="" asp-controller="Home" asp-action="Index">Speeding</a></li>
+                                </ul>
+                            </li>
+                            @if (UserSingleton.Instance.User == null)
+                            {
+                                <li class="scroll-to-section"> <a asp-area="" asp-controller="User" asp-action="LogIn">Iniciar Sesion</a></li>
+                                <li class="scroll-to-section"> <a asp-area="" asp-controller="User" asp-action="SignIn">Registrarse</a></li>
+                            }
+                            else
+                            {
+                                if(UserSingleton.Instance.User.Role == "ENTRENADOR")
+                                {
+                                    <li class="scroll-to-section"> <a asp-area="" asp-controller="Class" asp-action="Create">Crear Clase</a></li>
+                                }
+                                else
+                                {
+                                    <li class="scroll-to-section"> <a asp-area="" asp-controller="Class" asp-action="ListClass">Asignarme</a></li>
+                                }
+                                <li class="scroll-to-section"> <a asp-area="" asp-controller="User" asp-action="LogOut">Cerrar Sesion</a></li>
+                            }
+                        </ul>        
+                        <a class='menu-trigger'>
+                            <span>Menu</span>
+                        </a>
+                        <!-- ***** Menu End ***** -->
+                    </nav>
+                </div>
+            </div>
+        </div>
+    </header>
+    <!-- ***** Header Area End ***** -->
+    <!-- ***** Main Banner Area Start ***** -->
+    <div id="top">
+        <div class="container-fluid">
+            @RenderBody()
+        </div>
+    </div>
+    <!-- ***** Main Banner Area End ***** -->
+    <!-- ***** Footer Start ***** -->
+    <footer>
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-4 col-xs-12">
+                    <div class="right-text-content">
+                            <ul class="social-icons">
+                                <li><a href="#"><i class="fa fa-facebook"></i></a></li>
+                                <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+                                <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+                                <li><a href="#"><i class="fa fa-instagram"></i></a></li>
+                            </ul>
+                    </div>
+                </div>
+                <div class="col-lg-4">
+                    <div class="logo">
+                        <a href="index.html"><img src="assets/images/white-logo.png" alt=""></a>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-xs-12">
+                    <div class="left-text-content">
+                            <li<a asp-area="" asp-controller="Home" asp-action="Privacy">&copy; 2023 - Proyecto Programación Web</a></li>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

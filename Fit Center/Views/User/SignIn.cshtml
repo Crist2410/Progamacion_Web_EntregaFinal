@@ -1,0 +1,72 @@
+﻿@model Fit_Center.Models.User
+
+@{
+    ViewData["Title"] = "SignIn";
+}
+
+
+
+<div class="row">
+    <div class="col-lg-4">
+        <div class="left-content">
+            <div class="inner-content2">
+                <h6>Registrarse</h6>
+                <hr />
+                <form method="post" asp-controller="User" asp-action="Create">
+                     <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                    <div class="form-group main-white-button scroll-to-section" style="margin-top: 0;">
+                            <label asp-for="Email" class="control-label ">Correo:</label>
+                            <input asp-for="Email" class="form-control" type="email" />
+                            <span asp-validation-for="Email" class="text-danger"></span>
+                    </div>
+                    <div class="form-group main-white-button scroll-to-section">
+                        <label asp-for="Password" class="control-label">Contraseña:</label>
+                        <input asp-for="Password" class="form-control" type="password" />
+                        <span asp-validation-for="Password" class="text-danger"></span>
+                    </div>
+                    <div class="form-group main-white-button scroll-to-section">
+                        <label asp-for="FirstName" class="control-label">Nombre:</label>
+                        <input asp-for="FirstName" class="form-control" type="text" />
+                        <span asp-validation-for="FirstName" class="text-danger"></span>
+                    </div>
+                    <div class="form-group main-white-button scroll-to-section">
+                        <label asp-for="LastName" class="control-label">Apellido:</label>
+                        <input asp-for="LastName" class="form-control" type="text" />
+                        <span asp-validation-for="LastName" class="text-danger"></span>
+                    </div>
+                    <div class="form-group main-white-button scroll-to-section">
+                        <label asp-for="BirthDate" class="control-label">Fecha de Nacimiento:</label>
+                        <input asp-for="BirthDate" class="form-control" type="date" />
+                        <span asp-validation-for="BirthDate" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="Role" class="control-label"></label>
+                        <select asp-for="Role" class="form-control">
+                            <option value="ENTRENADOR">ENTRENADOR</option>
+                            <option value="ESTUDIANTE">ESTUDIANTE</option>
+                        </select>
+                        <span asp-validation-for="Role" class="text-danger"></span>
+                    </div>
+                    <div class="form-group main-white-button scroll-to-section">
+                        <input type="submit" value="Registrarse" class="btn btn btn-dark" />
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+    <div class="col-lg-8">
+        <div class="main-banner header-text">
+            <div class="Modern-Slider">
+                <div class="item">
+                    <div class="img-fill">
+                        <img src="~/images/Index.png" />
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

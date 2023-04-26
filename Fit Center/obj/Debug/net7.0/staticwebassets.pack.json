@@ -1,0 +1,461 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Cris\\Documents\\Entrega Final Proga Web\\Fit Center\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\Fit Center.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Fit Center.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Cris\\Documents\\Entrega Final Proga Web\\Fit Center\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Cris\\Documents\\Entrega Final Proga Web\\Fit Center\\wwwroot\\css\\flex-slider.css",
+      "PackagePath": "staticwebassets\\css\\flex-slider.css"
+    },
+    {
+      "Id": "C:\\Users\\Cris\\Documents\\Entrega Final Proga Web\\Fit Center\\wwwroot\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\css\\font-awesome.css"
+    },
+    {
+      "Id": "C:\\Users\\Cris\\Documents\\Entrega Final Proga Web\\Fit Center\\wwwroot\\css\\lightbox.css",
+      "PackagePath": "staticwebassets\\css\\lightbox.css"
+    },
+    {
+      "Id": "C:\\Users\\Cris\\Documents\\Entrega Final Proga Web\\Fit Center\\wwwroot\\css\\owl-carousel.css",
+      "PackagePath": "staticwebassets\\css\\owl-carousel.css"
+    },
+    {
+      "Id": "C:\\Users\\Cris\\Documents\\Entrega Final Proga Web\\Fit Center\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Cris\\Documents\\Entrega Final Proga Web\\Fit Center\\wwwroot\\css\\templatemo-klassy-cafe.css",
+      "PackagePath": "staticwebassets\\css\\templatemo-klassy-cafe.css"
+    },
+    {
+      "Id": "C:\\Users\\Cris\\Documents\\Entrega Final Proga Web\\Fit Center\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Cris\\Documents\\Entrega Final Proga Web\\Fit Center\\wwwroot\\fonts\\Flaticon.woff",
+      "PackagePath": "staticwebassets\\fonts\\Flaticon.woff"
+    },
+    {
+      "Id": "C:\\Users\\Cris\\Documents\\Entrega Final Proga Web\\Fit Center\\wwwroot\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\Cris\\Documents\\Entrega Final Proga Web\\Fit Center\\wwwroot\\fonts\\flexslider-icon.eot",
+      "PackagePath": "staticwebassets\\fonts\\flexslider-icon.eot"
+    },
+    {
+      "Id": "C:\\Users\\Cris\\Documents\\Entrega Final Proga Web\\Fit Center\\wwwroot\\fonts\\flexslider-icon.svg",
+      "PackagePath": "staticwebassets\\fonts\\flexslider-icon.svg"
+    },
+    {
+      "Id": "C:\\Users\\Cris\\Documents\\Entrega Final Proga Web\\Fit Center\\wwwroot\\fonts\\flexslider-icon.ttf",
+      "PackagePath": "staticwebassets\\fonts\\flexslider-icon.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Cris\\Documents\\Entrega Final Proga Web\\Fit Center\\wwwroot\\fonts\\flexslider-icon.woff",
+      "PackagePath": "staticwebassets\\fonts\\flexslider-icon.woff"
+    },
+    {
+      "Id": "C:\\Users\\Cris\\Documents\\Entrega Final Proga Web\\Fit Center\\wwwroot\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\Cris\\Documents\\Entrega Final Proga Web\\Fit Center\\wwwroot\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\Cris\\Documents\\Entrega Final Proga Web\\Fit Center\\wwwroot\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Cris\\Documents\\Entrega Final Proga Web\\Fit Center\\wwwroot\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\Cris\\Documents\\Entrega Final Proga Web\\Fit Center\\wwwroot\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Cris\\Documents\\Entrega Final Proga Web\\Fit Center\\wwwroot\\fonts\\slick.eot",
+      "PackagePath": "staticwebassets\\fonts\\slick.eot"
+    },
+    {
+      "Id": "C:\\Users\\Cris\\Documents\\Entrega Final Proga Web\\Fit Center\\wwwroot\\fonts\\slick.svg",
+      "PackagePath": "staticwebassets\\fonts\\slick.svg"
+    },
+    {
+      "Id": "C:\\Users\\Cris\\Documents\\Entrega Final Proga Web\\Fit Center\\wwwroot\\fonts\\slick.ttf",
+      "PackagePath": "staticwebassets\\fonts\\slick.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Cris\\Documents\\Entrega Final Proga Web\\Fit Center\\wwwroot\\fonts\\slick.woff",
+      "PackagePath": "staticwebassets\\fonts\\slick.woff"
+    },
+    {
+      "Id": "C:\\Users\\Cris\\Documents\\Entrega Final Proga Web\\Fit Center\\wwwroot\\images\\Alemán_Keren_Actividad1_Análisis_De_Complejidad.docx",
+      "PackagePath": "staticwebassets\\images\\Alemán_Keren_Actividad1_Análisis_De_Complejidad.docx"
+    },
+    {
+      "Id": "C:\\Users\\Cris\\Documents\\Entrega Final Proga Web\\Fit Center\\wwwroot\\images\\Index.png",
+      "PackagePath": "staticwebassets\\images\\Index.png"
+    },
+    {
+      "Id": "C:\\Users\\Cris\\Documents\\Entrega Final Proga Web\\Fit Center\\wwwroot\\images\\Logo.png",
+      "PackagePath": "staticwebassets\\images\\Logo.png"
+    },
+    {
+      "Id": "C:\\Users\\Cris\\Documents\\Entrega Final Proga Web\\Fit Center\\wwwroot\\images\\Logo_Small.png",
+      "PackagePath": "staticwebassets\\images\\Logo_Small.png"
+    },
+    {
+      "Id": "C:\\Users\\Cris\\Documents\\Entrega Final Proga Web\\Fit Center\\wwwroot\\images\\Parcial 1.xlsx",
+      "PackagePath": "staticwebassets\\images\\Parcial 1.xlsx"
+    },
+    {
+      "Id": "C:\\Users\\Cris\\Documents\\Entrega Final Proga Web\\Fit Center\\wwwroot\\images\\close.png",
+      "PackagePath": "staticwebassets\\images\\close.png"
+    },
+    {
+      "Id": "C:\\Users\\Cris\\Documents\\Entrega Final Proga Web\\Fit Center\\wwwroot\\images\\klassy-logo.png",
+      "PackagePath": "staticwebassets\\images\\klassy-logo.png"
+    },
+    {
+      "Id": "C:\\Users\\Cris\\Documents\\Entrega Final Proga Web\\Fit Center\\wwwroot\\images\\loading.gif",
+      "PackagePath": "staticwebassets\\images\\loading.gif"
+    },
+    {
+      "Id": "C:\\Users\\Cris\\Documents\\Entrega Final Proga Web\\Fit Center\\wwwroot\\images\\next.png",
+      "PackagePath": "staticwebassets\\images\\next.png"
+    },
+    {
+      "Id": "C:\\Users\\Cris\\Documents\\Entrega Final Proga Web\\Fit Center\\wwwroot\\images\\prev.png",
+      "PackagePath": "staticwebassets\\images\\prev.png"
+    },
+    {
+      "Id": "C:\\Users\\Cris\\Documents\\Entrega Final Proga Web\\Fit Center\\wwwroot\\images\\reservation-bg.jpg",
+      "PackagePath": "staticwebassets\\images\\reservation-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Cris\\Documents\\Entrega Final Proga Web\\Fit Center\\wwwroot\\images\\tab-icon-01.png",
+      "PackagePath": "staticwebassets\\images\\tab-icon-01.png"
+    },
+    {
+      "Id": "C:\\Users\\Cris\\Documents\\Entrega Final Proga Web\\Fit Center\\wwwroot\\images\\top-left-bg.jpg",
+      "PackagePath": "staticwebassets\\images\\top-left-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Cris\\Documents\\Entrega Final Proga Web\\Fit Center\\wwwroot\\images\\white-logo.png",
+      "PackagePath": "staticwebassets\\images\\white-logo.png"
+    },
+    {
+      "Id": "C:\\Users\\Cris\\Documents\\Entrega Final Proga Web\\Fit Center\\wwwroot\\js\\accordions.js",
+      "PackagePath": "staticwebassets\\js\\accordions.js"
+    },
+    {
+      "Id": "C:\\Users\\Cris\\Documents\\Entrega Final Proga Web\\Fit Center\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Cris\\Documents\\Entrega Final Proga Web\\Fit Center\\wwwroot\\js\\custom.js",
+      "PackagePath": "staticwebassets\\js\\custom.js"
+    },
+    {
+      "Id": "C:\\Users\\Cris\\Documents\\Entrega Final Proga Web\\Fit Center\\wwwroot\\js\\datepicker.js",
+      "PackagePath": "staticwebassets\\js\\datepicker.js"
+    },
+    {
+      "Id": "C:\\Users\\Cris\\Documents\\Entrega Final Proga Web\\Fit Center\\wwwroot\\js\\imgfix.min.js",
+      "PackagePath": "staticwebassets\\js\\imgfix.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Cris\\Documents\\Entrega Final Proga Web\\Fit Center\\wwwroot\\js\\isotope.js",
+      "PackagePath": "staticwebassets\\js\\isotope.js"
+    },
+    {
+      "Id": "C:\\Users\\Cris\\Documents\\Entrega Final Proga Web\\Fit Center\\wwwroot\\js\\jquery-2.1.0.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-2.1.0.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Cris\\Documents\\Entrega Final Proga Web\\Fit Center\\wwwroot\\js\\jquery.counterup.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.counterup.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Cris\\Documents\\Entrega Final Proga Web\\Fit Center\\wwwroot\\js\\lightbox.js",
+      "PackagePath": "staticwebassets\\js\\lightbox.js"
+    },
+    {
+      "Id": "C:\\Users\\Cris\\Documents\\Entrega Final Proga Web\\Fit Center\\wwwroot\\js\\owl-carousel.js",
+      "PackagePath": "staticwebassets\\js\\owl-carousel.js"
+    },
+    {
+      "Id": "C:\\Users\\Cris\\Documents\\Entrega Final Proga Web\\Fit Center\\wwwroot\\js\\popper.js",
+      "PackagePath": "staticwebassets\\js\\popper.js"
+    },
+    {
+      "Id": "C:\\Users\\Cris\\Documents\\Entrega Final Proga Web\\Fit Center\\wwwroot\\js\\scrollreveal.min.js",
+      "PackagePath": "staticwebassets\\js\\scrollreveal.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Cris\\Documents\\Entrega Final Proga Web\\Fit Center\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Cris\\Documents\\Entrega Final Proga Web\\Fit Center\\wwwroot\\js\\slick.js",
+      "PackagePath": "staticwebassets\\js\\slick.js"
+    },
+    {
+      "Id": "C:\\Users\\Cris\\Documents\\Entrega Final Proga Web\\Fit Center\\wwwroot\\js\\waypoints.min.js",
+      "PackagePath": "staticwebassets\\js\\waypoints.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Cris\\Documents\\Entrega Final Proga Web\\Fit Center\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Cris\\Documents\\Entrega Final Proga Web\\Fit Center\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Cris\\Documents\\Entrega Final Proga Web\\Fit Center\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Cris\\Documents\\Entrega Final Proga Web\\Fit Center\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Cris\\Documents\\Entrega Final Proga Web\\Fit Center\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Cris\\Documents\\Entrega Final Proga Web\\Fit Center\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Cris\\Documents\\Entrega Final Proga Web\\Fit Center\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Cris\\Documents\\Entrega Final Proga Web\\Fit Center\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Cris\\Documents\\Entrega Final Proga Web\\Fit Center\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Cris\\Documents\\Entrega Final Proga Web\\Fit Center\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Cris\\Documents\\Entrega Final Proga Web\\Fit Center\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Cris\\Documents\\Entrega Final Proga Web\\Fit Center\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Cris\\Documents\\Entrega Final Proga Web\\Fit Center\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Cris\\Documents\\Entrega Final Proga Web\\Fit Center\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Cris\\Documents\\Entrega Final Proga Web\\Fit Center\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Cris\\Documents\\Entrega Final Proga Web\\Fit Center\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Cris\\Documents\\Entrega Final Proga Web\\Fit Center\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Cris\\Documents\\Entrega Final Proga Web\\Fit Center\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Cris\\Documents\\Entrega Final Proga Web\\Fit Center\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Cris\\Documents\\Entrega Final Proga Web\\Fit Center\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Cris\\Documents\\Entrega Final Proga Web\\Fit Center\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Cris\\Documents\\Entrega Final Proga Web\\Fit Center\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Cris\\Documents\\Entrega Final Proga Web\\Fit Center\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Cris\\Documents\\Entrega Final Proga Web\\Fit Center\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Cris\\Documents\\Entrega Final Proga Web\\Fit Center\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Cris\\Documents\\Entrega Final Proga Web\\Fit Center\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Cris\\Documents\\Entrega Final Proga Web\\Fit Center\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Cris\\Documents\\Entrega Final Proga Web\\Fit Center\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Cris\\Documents\\Entrega Final Proga Web\\Fit Center\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Cris\\Documents\\Entrega Final Proga Web\\Fit Center\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Cris\\Documents\\Entrega Final Proga Web\\Fit Center\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Cris\\Documents\\Entrega Final Proga Web\\Fit Center\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Cris\\Documents\\Entrega Final Proga Web\\Fit Center\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Cris\\Documents\\Entrega Final Proga Web\\Fit Center\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Cris\\Documents\\Entrega Final Proga Web\\Fit Center\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Cris\\Documents\\Entrega Final Proga Web\\Fit Center\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Cris\\Documents\\Entrega Final Proga Web\\Fit Center\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Cris\\Documents\\Entrega Final Proga Web\\Fit Center\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Cris\\Documents\\Entrega Final Proga Web\\Fit Center\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Cris\\Documents\\Entrega Final Proga Web\\Fit Center\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Cris\\Documents\\Entrega Final Proga Web\\Fit Center\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Cris\\Documents\\Entrega Final Proga Web\\Fit Center\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Cris\\Documents\\Entrega Final Proga Web\\Fit Center\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Cris\\Documents\\Entrega Final Proga Web\\Fit Center\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Cris\\Documents\\Entrega Final Proga Web\\Fit Center\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Cris\\Documents\\Entrega Final Proga Web\\Fit Center\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Cris\\Documents\\Entrega Final Proga Web\\Fit Center\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Cris\\Documents\\Entrega Final Proga Web\\Fit Center\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Cris\\Documents\\Entrega Final Proga Web\\Fit Center\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Cris\\Documents\\Entrega Final Proga Web\\Fit Center\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Cris\\Documents\\Entrega Final Proga Web\\Fit Center\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Cris\\Documents\\Entrega Final Proga Web\\Fit Center\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Cris\\Documents\\Entrega Final Proga Web\\Fit Center\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Cris\\Documents\\Entrega Final Proga Web\\Fit Center\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Cris\\Documents\\Entrega Final Proga Web\\Fit Center\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Cris\\Documents\\Entrega Final Proga Web\\Fit Center\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Cris\\Documents\\Entrega Final Proga Web\\Fit Center\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.Fit Center.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.Fit Center.props",
+      "PackagePath": "build\\Fit Center.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.Fit Center.props",
+      "PackagePath": "buildMultiTargeting\\Fit Center.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.Fit Center.props",
+      "PackagePath": "buildTransitive\\Fit Center.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

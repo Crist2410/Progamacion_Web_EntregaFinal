@@ -1,0 +1,65 @@
+﻿@model Fit_Center.Models.Assignment
+
+@{
+    ViewData["Title"] = "CreateAssignment";
+}
+
+<div class="row">
+    <div class="col-lg-4">
+        <div class="left-content">
+            <div class="inner-content">
+                <!--
+                <hr />
+                <h4 class="display-4"> Model.FirstName Model.LastName</h4>
+                -->
+                <hr />
+                <h5>Nueva Asignación</h5>
+            </div>
+        </div>
+    </div>
+    <div class="col-lg-8">
+        <div class="main-banner header-text">
+            <div class="Modern-Slider">
+                <div class="item">
+                    <div class="img-fill">
+                        <div class="col-md-4">
+                            <form asp-action="CreateAssignment">
+                                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                                <div class="form-group">
+                                    <label asp-for="UserId" class="control-label"></label>
+                                    <select asp-for="UserId" class="form-control" asp-items="ViewBag.UserId"></select>
+                                </div>
+                                <div class="form-group">
+                                    <label asp-for="ClassId" class="control-label"></label>
+                                    <select asp-for="ClassId" class="form-control" asp-items="ViewBag.ClassId"></select>
+                                </div>
+                                <div class="form-group">
+                                    <label asp-for="AssignmentDate" class="control-label"></label>
+                                    <input asp-for="AssignmentDate" class="form-control" />
+                                    <span asp-validation-for="AssignmentDate" class="text-danger"></span>
+                                </div>
+                                <div class="form-group">
+                                    <label asp-for="Status" class="control-label"></label>
+                                    <input asp-for="Status" class="form-control" />
+                                    <span asp-validation-for="Status" class="text-danger"></span>
+                                </div>
+                                <div class="form-group">
+                                    <label asp-for="AssignmentGrade" class="control-label"></label>
+                                    <input asp-for="AssignmentGrade" class="form-control" />
+                                    <span asp-validation-for="AssignmentGrade" class="text-danger"></span>
+                                </div>
+                                <div class="form-group">
+                                    <input type="submit" value="Create" class="btn btn-primary" />
+                                </div>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

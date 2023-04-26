@@ -1,0 +1,68 @@
+﻿@model IEnumerable<Fit_Center.Models.Class>
+
+@{
+    ViewData["Title"] = "Listado de Clases";
+}
+
+<h1>Listado de Clases Disponibles</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                Nombre del Curso
+            </th>
+            <th>
+                Descripción del Curso
+            </th>
+            <th>
+                Fecha Inicio del Curso
+            </th>
+            <th>
+                Fecha Fin del Curso
+            </th>
+            <th>
+                Hora Inicio de la Clase
+            </th>
+            <th>
+                Hora Fin de la Clase
+            </th>
+            <th>
+                Ubicación
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.ClassName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ClassDescription)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.StartDate)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.EndDate)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.StartTime)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.EndTime)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Location)
+            </td>
+            <td>
+                <form method="post" asp-controller="Assignment" asp-action="Create" asp-route-id="@item.ClassId">
+                    <button type="submit">Asignarme</button>
+                </form>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Fit Center", "Fit Center\Fit Center.csproj", "{50849570-2EA7-4473-ADF2-23CCEA0D81DC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Fit Center Model", "Fit Center Model\Fit Center Model.csproj", "{A44FA5C9-596C-476A-9EC1-95DE8E3911F2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API", "API\API.csproj", "{D4584D20-DB73-4051-A9A7-14AE283BBEEB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{50849570-2EA7-4473-ADF2-23CCEA0D81DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50849570-2EA7-4473-ADF2-23CCEA0D81DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50849570-2EA7-4473-ADF2-23CCEA0D81DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50849570-2EA7-4473-ADF2-23CCEA0D81DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A44FA5C9-596C-476A-9EC1-95DE8E3911F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A44FA5C9-596C-476A-9EC1-95DE8E3911F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A44FA5C9-596C-476A-9EC1-95DE8E3911F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A44FA5C9-596C-476A-9EC1-95DE8E3911F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4584D20-DB73-4051-A9A7-14AE283BBEEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4584D20-DB73-4051-A9A7-14AE283BBEEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4584D20-DB73-4051-A9A7-14AE283BBEEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4584D20-DB73-4051-A9A7-14AE283BBEEB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FDFA1FAD-15C4-4FCD-994A-66C6767526BD}
+	EndGlobalSection
+EndGlobal
